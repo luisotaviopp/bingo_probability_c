@@ -1,6 +1,6 @@
 # bingo_probability_c
 
-Generate the bingo cards, calculate match and round-winning probability based on how many times a single number repeats within the cards.
+Generates the bingo cards, calculates match and round-winning probability based on how many times a single number repeats within the cards.
 
 Open terminal:
 

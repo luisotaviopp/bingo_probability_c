@@ -7,6 +7,12 @@ Open terminal:
   Compile with: ``` gcc -o bingo bingo.c ```
   
   Run with: ``` ./bingo ```
+  
+References:
+
+- http://www.durangobill.com/BingoHowTo.html
+- http://www.durangobill.com/BingoStats.html
+- https://www.sciencenews.org/article/probabilities-bingo
 
 ## Example response:
   
